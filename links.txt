@@ -1,0 +1,19 @@
+https://towardsdatascience.com/train-validation-and-test-sets-72cb40cba9e7
+
+https://www.geeksforgeeks.org/drop-rows-from-pandas-dataframe-with-missing-values-or-nan-in-columns/
+
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html
+
+https://nanonets.com/blog/deep-learning-ocr/
+
+https://github.com/qjadud1994/Korean-license-plate-Generator
+
+https://missinglink.ai/guides/tensorflow/building-tensorflow-ocr-systems-key-approaches-and-tutorials/
+
+* LEPA ii LEPA *
+https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5
+FAV: https://stackabuse.com/image-recognition-in-python-with-tensorflow-and-keras/
+
+
+- Jupyter
+https://mybinder.org/v2/gh/ipython/ipython-in-depth/7e5ce96cc9251083979efdfc393425f1229a4a68
